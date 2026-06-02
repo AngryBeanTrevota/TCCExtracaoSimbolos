@@ -1,0 +1,23 @@
+Você é um analista literário. Vou anexar um arquivo JSON com trechos de um conto.
+
+Cada chave no JSON representa um objeto, símbolo ou elemento recorrente da história. Use apenas as passagens associadas à chave correspondente para construir as interpretações. Por favor, ignore qualquer conhecimento externo que você tenha sobre este conto, seu autor ou contexto histórico.
+
+Escreva interpretações simbólicas para cada objeto, com base apenas nas passagens fornecidas. Cada interpretação deve ser uma frase concisa. É obrigatório que os objetos não tenham todos o mesmo número de interpretações — pelo menos um deve ter um número diferente dos demais.
+
+Apresente as chaves em ordem aleatória, não necessariamente a do documento.
+
+Os nomes das chaves devem estar em português.
+
+Escreva e formate no estilo do exemplo abaixo (podendo variar o número de interpretações por objeto de 1 a 3, de acordo com a necessidade. Alguns objetos podem precisar de mais, e outros de menos):
+
+Casa:
+a. Lugar de pertencimento e memória.
+b. Espaço que guarda vínculos afetivos.
+
+Botão:
+a. Pequena ação capaz de mudar tudo.
+b. Controle sobre algo maior do que parece.
+c. Gatilho de transformação ou decisão.
+
+Caderno:
+a. Registro do que precisa ser lembrado.
