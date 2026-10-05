@@ -1,0 +1,28 @@
+etiqueta,tipo,conto,origem,n_respostas,taxa_voto_humano,plaus_media,taxa_acerto,objetos,n_interpretacoes,chars_bloco
+AC,IA,fosforos,gemini_run2,22,0.18181818181818182,3.5454545454545454,0.8181818181818182,"parede, fósforo, casa",7,666
+BN,IA,espelho,gemini_run2,22,0.5,3.8636363636363638,0.5,"casa, alma",6,707
+BQ,IA,fosforos,chatgpt_run2,22,0.7272727272727273,4.136363636363637,0.2727272727272727,"mão, fósforos, luz",7,500
+EO,IA,fosforos,chatgpt_run1,22,0.5454545454545454,3.727272727272727,0.45454545454545453,"luz, mão, fósforos",6,484
+FG,IA,vermelho,claude_run1,22,0.45454545454545453,3.909090909090909,0.5454545454545454,"janela, morte, sala",8,695
+FI,IA,espelho,claude_run1,22,0.13636363636363635,3.727272727272727,0.8636363636363636,"tempo, dia, alma",8,955
+GQ,humano,fosforos,humano_anot1,22,0.6363636363636364,3.227272727272727,0.6363636363636364,"caixa de fósforos, chinelos, níquel",5,197
+GV,IA,espelho,chatgpt_run1,22,0.45454545454545453,3.909090909090909,0.5454545454545454,"espelho, tempo, alma",8,735
+GY,IA,espelho,claude_run2,22,0.3181818181818182,4.045454545454546,0.6818181818181818,"tempo, dia, alma",7,809
+HC,humano,vermelho,humano_anot2,22,0.7727272727272727,4.363636363636363,0.7727272727272727,"vermelho, castelo, relógio",9,349
+HD,IA,vermelho,chatgpt_run1,22,0.7727272727272727,4.2272727272727275,0.22727272727272727,"relógio de ébano, morte vermelha, salas",6,536
+IW,IA,vermelho,gemini_run1,22,0.4090909090909091,4.090909090909091,0.5909090909090909,"janela, sangue, sala",6,558
+MA,IA,fosforos,gemini_run1,22,0.36363636363636365,4.090909090909091,0.6363636363636364,"parede, fósforo, casa",7,643
+MO,IA,vermelho,claude_run2,22,0.5,3.8636363636363638,0.5,"sala, janela, morte",7,558
+NV,IA,fosforos,claude_run1,22,0.13636363636363635,3.9545454545454546,0.8636363636363636,"luz, fósforos, casa",8,647
+NW,IA,espelho,gemini_run1,22,0.5909090909090909,4.090909090909091,0.4090909090909091,"alma, casa",6,757
+OR,IA,espelho,chatgpt_run2,22,0.7272727272727273,4.045454545454546,0.2727272727272727,"espelho, alma, tempo",6,423
+PF,IA,fosforos,claude_run2,22,0.2727272727272727,3.772727272727273,0.7272727272727273,"luz, casa, fósforo",8,748
+PQ,humano,espelho,humano_anot3,22,0.7727272727272727,3.5,0.7727272727272727,"laranja, espelho, casa",4,154
+RO,humano,espelho,humano_anot2,22,0.7272727272727273,3.1818181818181817,0.7272727272727273,"alma externa, roupas de alferes, espelho",9,459
+SV,humano,vermelho,humano_anot3,22,0.6363636363636364,3.8636363636363638,0.6363636363636364,"máscara, relógio, muro",8,276
+TQ,humano,vermelho,humano_anot1,22,0.5909090909090909,3.909090909090909,0.5909090909090909,"relógio de ébano, tripés com braseiros, portões de ferro",7,463
+UA,humano,espelho,humano_anot1,22,0.8636363636363636,3.727272727272727,0.8636363636363636,"relógio, espelho, farda de alferes",3,134
+UF,humano,fosforos,humano_anot2,22,0.8181818181818182,4.181818181818182,0.8181818181818182,"chama, casa, cadentes",9,334
+VO,IA,vermelho,gemini_run2,22,0.22727272727272727,3.5,0.7727272727272727,"sangue, sala, janela",6,569
+WM,IA,vermelho,chatgpt_run2,22,0.5454545454545454,4.5,0.45454545454545453,"morte, salas, relógio",6,517
+XL,humano,fosforos,humano_anot3,22,0.6363636363636364,3.4545454545454546,0.6363636363636364,"fósforo, estrela cadente, chinelo",8,306

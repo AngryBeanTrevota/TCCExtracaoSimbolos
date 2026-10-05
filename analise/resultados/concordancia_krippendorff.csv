@@ -1,0 +1,9 @@
+,variavel,conto,n_unidades,n_raters,alpha
+0,origem (nominal),global,27,22,0.14371594914346408
+1,origem (nominal),fosforos,9,22,0.18605737645084441
+2,origem (nominal),vermelho,9,22,0.0715559474818761
+3,origem (nominal),espelho,9,22,0.1682585825027757
+4,plausibilidade (interval),global,27,22,0.04928620996892019
+5,plausibilidade (interval),fosforos,9,22,0.05194845854186547
+6,plausibilidade (interval),vermelho,9,22,0.053627687333178686
+7,plausibilidade (interval),espelho,9,22,0.023397390608072777

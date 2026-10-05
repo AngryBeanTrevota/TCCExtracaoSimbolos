@@ -1,0 +1,595 @@
+,participante,etiqueta,resp_origem,resp_plaus,idade,genero,area,uso_ia,freq_leitura,conto,origem,tipo,modelo,anotador,acertou
+0,1,AC,IA,3,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,gemini_run2,IA,gemini,,1
+1,1,BN,Humano,4,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,gemini_run2,IA,gemini,,0
+2,1,BQ,Humano,5,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,chatgpt_run2,IA,chatgpt,,0
+3,1,EO,IA,3,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,chatgpt_run1,IA,chatgpt,,1
+4,1,FG,IA,3,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,claude_run1,IA,claude,,1
+5,1,FI,IA,2,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,claude_run1,IA,claude,,1
+6,1,GQ,Humano,5,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,humano_anot1,humano,,humano_anot1,1
+7,1,GV,IA,4,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,chatgpt_run1,IA,chatgpt,,1
+8,1,GY,IA,4,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,claude_run2,IA,claude,,1
+9,1,HC,Humano,5,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,humano_anot2,humano,,humano_anot2,1
+10,1,HD,IA,3,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,chatgpt_run1,IA,chatgpt,,1
+11,1,IW,IA,4,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,gemini_run1,IA,gemini,,1
+12,1,MA,IA,2,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,gemini_run1,IA,gemini,,1
+13,1,MO,Humano,5,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,claude_run2,IA,claude,,0
+14,1,NV,IA,2,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,claude_run1,IA,claude,,1
+15,1,NW,Humano,3,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,gemini_run1,IA,gemini,,0
+16,1,OR,Humano,5,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,chatgpt_run2,IA,chatgpt,,0
+17,1,PF,IA,1,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,claude_run2,IA,claude,,1
+18,1,PQ,Humano,5,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,humano_anot3,humano,,humano_anot3,1
+19,1,RO,IA,3,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,humano_anot2,humano,,humano_anot2,0
+20,1,SV,Humano,5,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,humano_anot3,humano,,humano_anot3,1
+21,1,TQ,IA,2,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,humano_anot1,humano,,humano_anot1,0
+22,1,UA,Humano,5,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,humano_anot1,humano,,humano_anot1,1
+23,1,UF,Humano,5,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,humano_anot2,humano,,humano_anot2,1
+24,1,VO,IA,3,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,gemini_run2,IA,gemini,,1
+25,1,WM,Humano,5,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,chatgpt_run2,IA,chatgpt,,0
+26,1,XL,Humano,5,25–34,Feminino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,humano_anot3,humano,,humano_anot3,1
+27,2,AC,IA,5,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,gemini_run2,IA,gemini,,1
+28,2,BN,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,gemini_run2,IA,gemini,,1
+29,2,BQ,Humano,5,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,chatgpt_run2,IA,chatgpt,,0
+30,2,EO,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,chatgpt_run1,IA,chatgpt,,1
+31,2,FG,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,claude_run1,IA,claude,,1
+32,2,FI,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,claude_run1,IA,claude,,1
+33,2,GQ,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,humano_anot1,humano,,humano_anot1,0
+34,2,GV,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,chatgpt_run1,IA,chatgpt,,0
+35,2,GY,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,claude_run2,IA,claude,,1
+36,2,HC,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,humano_anot2,humano,,humano_anot2,1
+37,2,HD,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,chatgpt_run1,IA,chatgpt,,1
+38,2,IW,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,gemini_run1,IA,gemini,,1
+39,2,MA,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,gemini_run1,IA,gemini,,1
+40,2,MO,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,claude_run2,IA,claude,,1
+41,2,NV,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,claude_run1,IA,claude,,1
+42,2,NW,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,gemini_run1,IA,gemini,,1
+43,2,OR,Humano,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,chatgpt_run2,IA,chatgpt,,0
+44,2,PF,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,claude_run2,IA,claude,,1
+45,2,PQ,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,humano_anot3,humano,,humano_anot3,0
+46,2,RO,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,humano_anot2,humano,,humano_anot2,1
+47,2,SV,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,humano_anot3,humano,,humano_anot3,0
+48,2,TQ,Humano,5,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,humano_anot1,humano,,humano_anot1,1
+49,2,UA,Humano,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,humano_anot1,humano,,humano_anot1,1
+50,2,UF,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,humano_anot2,humano,,humano_anot2,1
+51,2,VO,IA,2,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,gemini_run2,IA,gemini,,1
+52,2,WM,IA,5,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,chatgpt_run2,IA,chatgpt,,1
+53,2,XL,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,humano_anot3,humano,,humano_anot3,0
+54,3,AC,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,fosforos,gemini_run2,IA,gemini,,1
+55,3,BN,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,espelho,gemini_run2,IA,gemini,,0
+56,3,BQ,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,fosforos,chatgpt_run2,IA,chatgpt,,0
+57,3,EO,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,fosforos,chatgpt_run1,IA,chatgpt,,1
+58,3,FG,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,vermelho,claude_run1,IA,claude,,1
+59,3,FI,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,espelho,claude_run1,IA,claude,,1
+60,3,GQ,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,fosforos,humano_anot1,humano,,humano_anot1,1
+61,3,GV,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,espelho,chatgpt_run1,IA,chatgpt,,1
+62,3,GY,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,espelho,claude_run2,IA,claude,,1
+63,3,HC,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,vermelho,humano_anot2,humano,,humano_anot2,0
+64,3,HD,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,vermelho,chatgpt_run1,IA,chatgpt,,0
+65,3,IW,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,vermelho,gemini_run1,IA,gemini,,1
+66,3,MA,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,fosforos,gemini_run1,IA,gemini,,1
+67,3,MO,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,vermelho,claude_run2,IA,claude,,1
+68,3,NV,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,fosforos,claude_run1,IA,claude,,1
+69,3,NW,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,espelho,gemini_run1,IA,gemini,,0
+70,3,OR,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,espelho,chatgpt_run2,IA,chatgpt,,0
+71,3,PF,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,fosforos,claude_run2,IA,claude,,1
+72,3,PQ,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,espelho,humano_anot3,humano,,humano_anot3,1
+73,3,RO,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,espelho,humano_anot2,humano,,humano_anot2,1
+74,3,SV,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,vermelho,humano_anot3,humano,,humano_anot3,1
+75,3,TQ,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,vermelho,humano_anot1,humano,,humano_anot1,1
+76,3,UA,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,espelho,humano_anot1,humano,,humano_anot1,1
+77,3,UF,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,fosforos,humano_anot2,humano,,humano_anot2,1
+78,3,VO,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,vermelho,gemini_run2,IA,gemini,,0
+79,3,WM,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,vermelho,chatgpt_run2,IA,chatgpt,,1
+80,3,XL,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Raramente ou nunca,fosforos,humano_anot3,humano,,humano_anot3,0
+81,4,AC,Humano,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,gemini_run2,IA,gemini,,0
+82,4,BN,Humano,5,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,gemini_run2,IA,gemini,,0
+83,4,BQ,Humano,5,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,chatgpt_run2,IA,chatgpt,,0
+84,4,EO,Humano,5,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,chatgpt_run1,IA,chatgpt,,0
+85,4,FG,Humano,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,claude_run1,IA,claude,,0
+86,4,FI,IA,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,claude_run1,IA,claude,,1
+87,4,GQ,IA,3,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,humano_anot1,humano,,humano_anot1,0
+88,4,GV,Humano,3,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,chatgpt_run1,IA,chatgpt,,0
+89,4,GY,IA,3,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,claude_run2,IA,claude,,1
+90,4,HC,Humano,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,humano_anot2,humano,,humano_anot2,1
+91,4,HD,Humano,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,chatgpt_run1,IA,chatgpt,,0
+92,4,IW,IA,5,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,gemini_run1,IA,gemini,,1
+93,4,MA,IA,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,gemini_run1,IA,gemini,,1
+94,4,MO,Humano,5,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,claude_run2,IA,claude,,0
+95,4,NV,IA,3,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,claude_run1,IA,claude,,1
+96,4,NW,Humano,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,gemini_run1,IA,gemini,,0
+97,4,OR,IA,2,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,chatgpt_run2,IA,chatgpt,,1
+98,4,PF,IA,5,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,claude_run2,IA,claude,,1
+99,4,PQ,IA,2,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,humano_anot3,humano,,humano_anot3,0
+100,4,RO,Humano,2,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,humano_anot2,humano,,humano_anot2,1
+101,4,SV,Humano,3,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,humano_anot3,humano,,humano_anot3,1
+102,4,TQ,IA,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,humano_anot1,humano,,humano_anot1,0
+103,4,UA,Humano,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,humano_anot1,humano,,humano_anot1,1
+104,4,UF,Humano,3,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,humano_anot2,humano,,humano_anot2,1
+105,4,VO,IA,3,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,gemini_run2,IA,gemini,,1
+106,4,WM,IA,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,chatgpt_run2,IA,chatgpt,,1
+107,4,XL,IA,2,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,humano_anot3,humano,,humano_anot3,0
+108,5,AC,IA,4,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,gemini_run2,IA,gemini,,1
+109,5,BN,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,gemini_run2,IA,gemini,,1
+110,5,BQ,Humano,4,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,chatgpt_run2,IA,chatgpt,,0
+111,5,EO,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,chatgpt_run1,IA,chatgpt,,1
+112,5,FG,Humano,4,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,claude_run1,IA,claude,,0
+113,5,FI,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,claude_run1,IA,claude,,1
+114,5,GQ,Humano,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,humano_anot1,humano,,humano_anot1,1
+115,5,GV,Humano,4,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,chatgpt_run1,IA,chatgpt,,0
+116,5,GY,Humano,5,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,claude_run2,IA,claude,,0
+117,5,HC,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,humano_anot2,humano,,humano_anot2,0
+118,5,HD,Humano,4,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,chatgpt_run1,IA,chatgpt,,0
+119,5,IW,Humano,4,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,gemini_run1,IA,gemini,,0
+120,5,MA,Humano,4,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,gemini_run1,IA,gemini,,0
+121,5,MO,Humano,4,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,claude_run2,IA,claude,,0
+122,5,NV,Humano,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,claude_run1,IA,claude,,0
+123,5,NW,Humano,4,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,gemini_run1,IA,gemini,,0
+124,5,OR,Humano,4,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,chatgpt_run2,IA,chatgpt,,0
+125,5,PF,IA,4,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,claude_run2,IA,claude,,1
+126,5,PQ,IA,4,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,humano_anot3,humano,,humano_anot3,0
+127,5,RO,IA,2,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,humano_anot2,humano,,humano_anot2,0
+128,5,SV,Humano,5,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,humano_anot3,humano,,humano_anot3,1
+129,5,TQ,Humano,4,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,humano_anot1,humano,,humano_anot1,1
+130,5,UA,IA,2,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,humano_anot1,humano,,humano_anot1,0
+131,5,UF,Humano,4,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,humano_anot2,humano,,humano_anot2,1
+132,5,VO,IA,2,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,gemini_run2,IA,gemini,,1
+133,5,WM,Humano,5,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,chatgpt_run2,IA,chatgpt,,0
+134,5,XL,Humano,4,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,humano_anot3,humano,,humano_anot3,1
+135,6,AC,IA,2,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,gemini_run2,IA,gemini,,1
+136,6,BN,IA,3,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,gemini_run2,IA,gemini,,1
+137,6,BQ,Humano,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,chatgpt_run2,IA,chatgpt,,0
+138,6,EO,Humano,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,chatgpt_run1,IA,chatgpt,,0
+139,6,FG,IA,3,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,claude_run1,IA,claude,,1
+140,6,FI,IA,2,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,claude_run1,IA,claude,,1
+141,6,GQ,IA,2,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,humano_anot1,humano,,humano_anot1,0
+142,6,GV,Humano,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,chatgpt_run1,IA,chatgpt,,0
+143,6,GY,IA,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,claude_run2,IA,claude,,1
+144,6,HC,Humano,5,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,humano_anot2,humano,,humano_anot2,1
+145,6,HD,Humano,5,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,chatgpt_run1,IA,chatgpt,,0
+146,6,IW,Humano,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,gemini_run1,IA,gemini,,0
+147,6,MA,IA,3,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,gemini_run1,IA,gemini,,1
+148,6,MO,IA,3,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,claude_run2,IA,claude,,1
+149,6,NV,IA,5,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,claude_run1,IA,claude,,1
+150,6,NW,IA,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,gemini_run1,IA,gemini,,1
+151,6,OR,Humano,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,chatgpt_run2,IA,chatgpt,,0
+152,6,PF,Humano,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,claude_run2,IA,claude,,0
+153,6,PQ,Humano,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,humano_anot3,humano,,humano_anot3,1
+154,6,RO,Humano,3,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,humano_anot2,humano,,humano_anot2,1
+155,6,SV,Humano,5,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,humano_anot3,humano,,humano_anot3,1
+156,6,TQ,IA,2,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,humano_anot1,humano,,humano_anot1,0
+157,6,UA,Humano,5,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,espelho,humano_anot1,humano,,humano_anot1,1
+158,6,UF,IA,2,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,humano_anot2,humano,,humano_anot2,0
+159,6,VO,IA,2,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,gemini_run2,IA,gemini,,1
+160,6,WM,IA,4,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,vermelho,chatgpt_run2,IA,chatgpt,,1
+161,6,XL,Humano,3,18–24,Masculino,Exatas,Uso diariamente,Algumas vezes por semana,fosforos,humano_anot3,humano,,humano_anot3,1
+162,7,AC,IA,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,gemini_run2,IA,gemini,,1
+163,7,BN,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,gemini_run2,IA,gemini,,0
+164,7,BQ,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,chatgpt_run2,IA,chatgpt,,0
+165,7,EO,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,chatgpt_run1,IA,chatgpt,,0
+166,7,FG,IA,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,claude_run1,IA,claude,,1
+167,7,FI,IA,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,claude_run1,IA,claude,,1
+168,7,GQ,Humano,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,humano_anot1,humano,,humano_anot1,1
+169,7,GV,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,chatgpt_run1,IA,chatgpt,,0
+170,7,GY,IA,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,claude_run2,IA,claude,,1
+171,7,HC,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,humano_anot2,humano,,humano_anot2,1
+172,7,HD,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,chatgpt_run1,IA,chatgpt,,0
+173,7,IW,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,gemini_run1,IA,gemini,,0
+174,7,MA,IA,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,gemini_run1,IA,gemini,,1
+175,7,MO,Humano,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,claude_run2,IA,claude,,0
+176,7,NV,IA,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,claude_run1,IA,claude,,1
+177,7,NW,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,gemini_run1,IA,gemini,,0
+178,7,OR,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,chatgpt_run2,IA,chatgpt,,0
+179,7,PF,IA,2,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,claude_run2,IA,claude,,1
+180,7,PQ,Humano,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,humano_anot3,humano,,humano_anot3,1
+181,7,RO,Humano,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,humano_anot2,humano,,humano_anot2,1
+182,7,SV,Humano,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,humano_anot3,humano,,humano_anot3,1
+183,7,TQ,IA,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,humano_anot1,humano,,humano_anot1,0
+184,7,UA,Humano,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,humano_anot1,humano,,humano_anot1,1
+185,7,UF,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,humano_anot2,humano,,humano_anot2,1
+186,7,VO,IA,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,gemini_run2,IA,gemini,,1
+187,7,WM,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,chatgpt_run2,IA,chatgpt,,0
+188,7,XL,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,humano_anot3,humano,,humano_anot3,1
+189,8,AC,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,gemini_run2,IA,gemini,,1
+190,8,BN,IA,1,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,gemini_run2,IA,gemini,,1
+191,8,BQ,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,chatgpt_run2,IA,chatgpt,,0
+192,8,EO,Humano,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,chatgpt_run1,IA,chatgpt,,0
+193,8,FG,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,claude_run1,IA,claude,,1
+194,8,FI,IA,1,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,claude_run1,IA,claude,,1
+195,8,GQ,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,humano_anot1,humano,,humano_anot1,1
+196,8,GV,IA,1,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,chatgpt_run1,IA,chatgpt,,1
+197,8,GY,IA,1,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,claude_run2,IA,claude,,1
+198,8,HC,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,humano_anot2,humano,,humano_anot2,0
+199,8,HD,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,chatgpt_run1,IA,chatgpt,,0
+200,8,IW,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,gemini_run1,IA,gemini,,1
+201,8,MA,Humano,5,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,gemini_run1,IA,gemini,,0
+202,8,MO,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,claude_run2,IA,claude,,0
+203,8,NV,IA,5,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,claude_run1,IA,claude,,1
+204,8,NW,IA,1,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,gemini_run1,IA,gemini,,1
+205,8,OR,IA,1,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,chatgpt_run2,IA,chatgpt,,1
+206,8,PF,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,claude_run2,IA,claude,,1
+207,8,PQ,IA,1,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,humano_anot3,humano,,humano_anot3,0
+208,8,RO,IA,1,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,humano_anot2,humano,,humano_anot2,0
+209,8,SV,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,humano_anot3,humano,,humano_anot3,0
+210,8,TQ,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,humano_anot1,humano,,humano_anot1,1
+211,8,UA,IA,1,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,humano_anot1,humano,,humano_anot1,0
+212,8,UF,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,humano_anot2,humano,,humano_anot2,1
+213,8,VO,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,gemini_run2,IA,gemini,,1
+214,8,WM,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,chatgpt_run2,IA,chatgpt,,0
+215,8,XL,Humano,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,humano_anot3,humano,,humano_anot3,1
+216,9,AC,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,gemini_run2,IA,gemini,,1
+217,9,BN,Humano,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,gemini_run2,IA,gemini,,0
+218,9,BQ,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,chatgpt_run2,IA,chatgpt,,1
+219,9,EO,Humano,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,chatgpt_run1,IA,chatgpt,,0
+220,9,FG,Humano,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,claude_run1,IA,claude,,0
+221,9,FI,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,claude_run1,IA,claude,,1
+222,9,GQ,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,humano_anot1,humano,,humano_anot1,0
+223,9,GV,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,chatgpt_run1,IA,chatgpt,,1
+224,9,GY,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,claude_run2,IA,claude,,1
+225,9,HC,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,humano_anot2,humano,,humano_anot2,0
+226,9,HD,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,chatgpt_run1,IA,chatgpt,,1
+227,9,IW,Humano,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,gemini_run1,IA,gemini,,0
+228,9,MA,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,gemini_run1,IA,gemini,,1
+229,9,MO,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,claude_run2,IA,claude,,1
+230,9,NV,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,claude_run1,IA,claude,,1
+231,9,NW,Humano,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,gemini_run1,IA,gemini,,0
+232,9,OR,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,chatgpt_run2,IA,chatgpt,,1
+233,9,PF,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,claude_run2,IA,claude,,1
+234,9,PQ,Humano,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,humano_anot3,humano,,humano_anot3,1
+235,9,RO,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,humano_anot2,humano,,humano_anot2,0
+236,9,SV,Humano,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,humano_anot3,humano,,humano_anot3,1
+237,9,TQ,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,humano_anot1,humano,,humano_anot1,0
+238,9,UA,Humano,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,humano_anot1,humano,,humano_anot1,1
+239,9,UF,Humano,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,humano_anot2,humano,,humano_anot2,1
+240,9,VO,IA,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,gemini_run2,IA,gemini,,1
+241,9,WM,Humano,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,chatgpt_run2,IA,chatgpt,,0
+242,9,XL,Humano,3,18–24,Feminino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,humano_anot3,humano,,humano_anot3,1
+243,10,AC,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,gemini_run2,IA,gemini,,1
+244,10,BN,IA,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,gemini_run2,IA,gemini,,1
+245,10,BQ,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,chatgpt_run2,IA,chatgpt,,1
+246,10,EO,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,chatgpt_run1,IA,chatgpt,,1
+247,10,FG,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,claude_run1,IA,claude,,1
+248,10,FI,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,claude_run1,IA,claude,,1
+249,10,GQ,Humano,3,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,humano_anot1,humano,,humano_anot1,1
+250,10,GV,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,chatgpt_run1,IA,chatgpt,,1
+251,10,GY,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,claude_run2,IA,claude,,1
+252,10,HC,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,humano_anot2,humano,,humano_anot2,1
+253,10,HD,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,chatgpt_run1,IA,chatgpt,,1
+254,10,IW,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,gemini_run1,IA,gemini,,1
+255,10,MA,IA,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,gemini_run1,IA,gemini,,1
+256,10,MO,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,claude_run2,IA,claude,,1
+257,10,NV,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,claude_run1,IA,claude,,1
+258,10,NW,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,gemini_run1,IA,gemini,,1
+259,10,OR,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,chatgpt_run2,IA,chatgpt,,1
+260,10,PF,IA,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,claude_run2,IA,claude,,1
+261,10,PQ,Humano,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,humano_anot3,humano,,humano_anot3,1
+262,10,RO,Humano,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,humano_anot2,humano,,humano_anot2,1
+263,10,SV,Humano,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,humano_anot3,humano,,humano_anot3,1
+264,10,TQ,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,humano_anot1,humano,,humano_anot1,0
+265,10,UA,Humano,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,humano_anot1,humano,,humano_anot1,1
+266,10,UF,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,humano_anot2,humano,,humano_anot2,1
+267,10,VO,IA,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,gemini_run2,IA,gemini,,1
+268,10,WM,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,chatgpt_run2,IA,chatgpt,,1
+269,10,XL,Humano,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,humano_anot3,humano,,humano_anot3,1
+270,11,AC,IA,3,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,gemini_run2,IA,gemini,,1
+271,11,BN,Humano,5,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,gemini_run2,IA,gemini,,0
+272,11,BQ,Humano,5,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,chatgpt_run2,IA,chatgpt,,0
+273,11,EO,Humano,5,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,chatgpt_run1,IA,chatgpt,,0
+274,11,FG,IA,2,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,claude_run1,IA,claude,,1
+275,11,FI,Humano,5,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,claude_run1,IA,claude,,0
+276,11,GQ,IA,2,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,humano_anot1,humano,,humano_anot1,0
+277,11,GV,Humano,4,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,chatgpt_run1,IA,chatgpt,,0
+278,11,GY,Humano,5,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,claude_run2,IA,claude,,0
+279,11,HC,Humano,5,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,humano_anot2,humano,,humano_anot2,1
+280,11,HD,Humano,4,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,chatgpt_run1,IA,chatgpt,,0
+281,11,IW,Humano,2,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,gemini_run1,IA,gemini,,0
+282,11,MA,IA,4,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,gemini_run1,IA,gemini,,1
+283,11,MO,IA,2,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,claude_run2,IA,claude,,1
+284,11,NV,IA,5,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,claude_run1,IA,claude,,1
+285,11,NW,IA,5,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,gemini_run1,IA,gemini,,1
+286,11,OR,Humano,5,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,chatgpt_run2,IA,chatgpt,,0
+287,11,PF,Humano,4,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,claude_run2,IA,claude,,0
+288,11,PQ,Humano,5,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,humano_anot3,humano,,humano_anot3,1
+289,11,RO,IA,3,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,humano_anot2,humano,,humano_anot2,0
+290,11,SV,Humano,4,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,humano_anot3,humano,,humano_anot3,1
+291,11,TQ,IA,3,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,humano_anot1,humano,,humano_anot1,0
+292,11,UA,Humano,3,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,espelho,humano_anot1,humano,,humano_anot1,1
+293,11,UF,Humano,5,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,humano_anot2,humano,,humano_anot2,1
+294,11,VO,Humano,5,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,gemini_run2,IA,gemini,,0
+295,11,WM,IA,5,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,vermelho,chatgpt_run2,IA,chatgpt,,1
+296,11,XL,IA,3,18–24,Masculino,Exatas,Uso raramente (algumas vezes por mês),Algumas vezes por semana,fosforos,humano_anot3,humano,,humano_anot3,0
+297,12,AC,IA,2,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,gemini_run2,IA,gemini,,1
+298,12,BN,IA,4,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,gemini_run2,IA,gemini,,1
+299,12,BQ,IA,2,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,chatgpt_run2,IA,chatgpt,,1
+300,12,EO,Humano,4,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,chatgpt_run1,IA,chatgpt,,0
+301,12,FG,IA,5,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,claude_run1,IA,claude,,1
+302,12,FI,IA,5,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,claude_run1,IA,claude,,1
+303,12,GQ,IA,3,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,humano_anot1,humano,,humano_anot1,0
+304,12,GV,IA,4,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,chatgpt_run1,IA,chatgpt,,1
+305,12,GY,Humano,5,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,claude_run2,IA,claude,,0
+306,12,HC,Humano,4,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,humano_anot2,humano,,humano_anot2,1
+307,12,HD,Humano,5,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,chatgpt_run1,IA,chatgpt,,0
+308,12,IW,IA,4,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,gemini_run1,IA,gemini,,1
+309,12,MA,Humano,5,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,gemini_run1,IA,gemini,,0
+310,12,MO,IA,4,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,claude_run2,IA,claude,,1
+311,12,NV,IA,4,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,claude_run1,IA,claude,,1
+312,12,NW,Humano,5,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,gemini_run1,IA,gemini,,0
+313,12,OR,Humano,5,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,chatgpt_run2,IA,chatgpt,,0
+314,12,PF,Humano,5,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,claude_run2,IA,claude,,0
+315,12,PQ,Humano,4,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,humano_anot3,humano,,humano_anot3,1
+316,12,RO,Humano,5,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,humano_anot2,humano,,humano_anot2,1
+317,12,SV,IA,4,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,humano_anot3,humano,,humano_anot3,0
+318,12,TQ,IA,2,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,humano_anot1,humano,,humano_anot1,0
+319,12,UA,Humano,5,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,humano_anot1,humano,,humano_anot1,1
+320,12,UF,IA,2,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,humano_anot2,humano,,humano_anot2,0
+321,12,VO,IA,4,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,gemini_run2,IA,gemini,,1
+322,12,WM,Humano,4,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,chatgpt_run2,IA,chatgpt,,0
+323,12,XL,IA,1,18–24,Feminino,Outro,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,humano_anot3,humano,,humano_anot3,0
+324,13,AC,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,gemini_run2,IA,gemini,,1
+325,13,BN,IA,2,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,gemini_run2,IA,gemini,,1
+326,13,BQ,Humano,5,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,chatgpt_run2,IA,chatgpt,,0
+327,13,EO,Humano,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,chatgpt_run1,IA,chatgpt,,0
+328,13,FG,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,claude_run1,IA,claude,,1
+329,13,FI,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,claude_run1,IA,claude,,1
+330,13,GQ,Humano,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,humano_anot1,humano,,humano_anot1,1
+331,13,GV,Humano,5,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,chatgpt_run1,IA,chatgpt,,0
+332,13,GY,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,claude_run2,IA,claude,,1
+333,13,HC,Humano,5,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,humano_anot2,humano,,humano_anot2,1
+334,13,HD,Humano,5,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,chatgpt_run1,IA,chatgpt,,0
+335,13,IW,Humano,5,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,gemini_run1,IA,gemini,,0
+336,13,MA,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,gemini_run1,IA,gemini,,0
+337,13,MO,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,claude_run2,IA,claude,,1
+338,13,NV,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,claude_run1,IA,claude,,1
+339,13,NW,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,gemini_run1,IA,gemini,,1
+340,13,OR,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,chatgpt_run2,IA,chatgpt,,0
+341,13,PF,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,claude_run2,IA,claude,,1
+342,13,PQ,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,humano_anot3,humano,,humano_anot3,1
+343,13,RO,Humano,2,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,humano_anot2,humano,,humano_anot2,1
+344,13,SV,Humano,5,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,humano_anot3,humano,,humano_anot3,1
+345,13,TQ,Humano,5,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,humano_anot1,humano,,humano_anot1,1
+346,13,UA,Humano,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,espelho,humano_anot1,humano,,humano_anot1,1
+347,13,UF,Humano,5,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,humano_anot2,humano,,humano_anot2,1
+348,13,VO,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,gemini_run2,IA,gemini,,0
+349,13,WM,Humano,5,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,vermelho,chatgpt_run2,IA,chatgpt,,0
+350,13,XL,Humano,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por ano,fosforos,humano_anot3,humano,,humano_anot3,1
+351,14,AC,IA,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,gemini_run2,IA,gemini,,1
+352,14,BN,IA,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,gemini_run2,IA,gemini,,1
+353,14,BQ,Humano,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,chatgpt_run2,IA,chatgpt,,0
+354,14,EO,IA,2,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,chatgpt_run1,IA,chatgpt,,1
+355,14,FG,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,claude_run1,IA,claude,,0
+356,14,FI,IA,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,claude_run1,IA,claude,,1
+357,14,GQ,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,humano_anot1,humano,,humano_anot1,1
+358,14,GV,IA,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,chatgpt_run1,IA,chatgpt,,1
+359,14,GY,IA,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,claude_run2,IA,claude,,1
+360,14,HC,Humano,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,humano_anot2,humano,,humano_anot2,1
+361,14,HD,Humano,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,chatgpt_run1,IA,chatgpt,,0
+362,14,IW,IA,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,gemini_run1,IA,gemini,,1
+363,14,MA,IA,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,gemini_run1,IA,gemini,,1
+364,14,MO,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,claude_run2,IA,claude,,0
+365,14,NV,IA,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,claude_run1,IA,claude,,1
+366,14,NW,IA,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,gemini_run1,IA,gemini,,1
+367,14,OR,IA,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,chatgpt_run2,IA,chatgpt,,1
+368,14,PF,IA,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,claude_run2,IA,claude,,1
+369,14,PQ,Humano,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,humano_anot3,humano,,humano_anot3,1
+370,14,RO,Humano,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,humano_anot2,humano,,humano_anot2,1
+371,14,SV,IA,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,humano_anot3,humano,,humano_anot3,0
+372,14,TQ,Humano,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,humano_anot1,humano,,humano_anot1,1
+373,14,UA,Humano,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,espelho,humano_anot1,humano,,humano_anot1,1
+374,14,UF,Humano,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,humano_anot2,humano,,humano_anot2,1
+375,14,VO,IA,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,gemini_run2,IA,gemini,,1
+376,14,WM,Humano,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,vermelho,chatgpt_run2,IA,chatgpt,,0
+377,14,XL,Humano,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por mês,fosforos,humano_anot3,humano,,humano_anot3,1
+378,15,AC,IA,4,18–24,Masculino,Exatas,Uso diariamente,Diariamente,fosforos,gemini_run2,IA,gemini,,1
+379,15,BN,Humano,5,18–24,Masculino,Exatas,Uso diariamente,Diariamente,espelho,gemini_run2,IA,gemini,,0
+380,15,BQ,IA,4,18–24,Masculino,Exatas,Uso diariamente,Diariamente,fosforos,chatgpt_run2,IA,chatgpt,,1
+381,15,EO,Humano,4,18–24,Masculino,Exatas,Uso diariamente,Diariamente,fosforos,chatgpt_run1,IA,chatgpt,,0
+382,15,FG,Humano,4,18–24,Masculino,Exatas,Uso diariamente,Diariamente,vermelho,claude_run1,IA,claude,,0
+383,15,FI,IA,4,18–24,Masculino,Exatas,Uso diariamente,Diariamente,espelho,claude_run1,IA,claude,,1
+384,15,GQ,Humano,3,18–24,Masculino,Exatas,Uso diariamente,Diariamente,fosforos,humano_anot1,humano,,humano_anot1,1
+385,15,GV,IA,4,18–24,Masculino,Exatas,Uso diariamente,Diariamente,espelho,chatgpt_run1,IA,chatgpt,,1
+386,15,GY,IA,4,18–24,Masculino,Exatas,Uso diariamente,Diariamente,espelho,claude_run2,IA,claude,,1
+387,15,HC,IA,5,18–24,Masculino,Exatas,Uso diariamente,Diariamente,vermelho,humano_anot2,humano,,humano_anot2,0
+388,15,HD,Humano,5,18–24,Masculino,Exatas,Uso diariamente,Diariamente,vermelho,chatgpt_run1,IA,chatgpt,,0
+389,15,IW,Humano,5,18–24,Masculino,Exatas,Uso diariamente,Diariamente,vermelho,gemini_run1,IA,gemini,,0
+390,15,MA,Humano,5,18–24,Masculino,Exatas,Uso diariamente,Diariamente,fosforos,gemini_run1,IA,gemini,,0
+391,15,MO,Humano,5,18–24,Masculino,Exatas,Uso diariamente,Diariamente,vermelho,claude_run2,IA,claude,,0
+392,15,NV,IA,5,18–24,Masculino,Exatas,Uso diariamente,Diariamente,fosforos,claude_run1,IA,claude,,1
+393,15,NW,Humano,5,18–24,Masculino,Exatas,Uso diariamente,Diariamente,espelho,gemini_run1,IA,gemini,,0
+394,15,OR,IA,4,18–24,Masculino,Exatas,Uso diariamente,Diariamente,espelho,chatgpt_run2,IA,chatgpt,,1
+395,15,PF,IA,4,18–24,Masculino,Exatas,Uso diariamente,Diariamente,fosforos,claude_run2,IA,claude,,1
+396,15,PQ,IA,3,18–24,Masculino,Exatas,Uso diariamente,Diariamente,espelho,humano_anot3,humano,,humano_anot3,0
+397,15,RO,Humano,4,18–24,Masculino,Exatas,Uso diariamente,Diariamente,espelho,humano_anot2,humano,,humano_anot2,1
+398,15,SV,IA,4,18–24,Masculino,Exatas,Uso diariamente,Diariamente,vermelho,humano_anot3,humano,,humano_anot3,0
+399,15,TQ,Humano,5,18–24,Masculino,Exatas,Uso diariamente,Diariamente,vermelho,humano_anot1,humano,,humano_anot1,1
+400,15,UA,Humano,3,18–24,Masculino,Exatas,Uso diariamente,Diariamente,espelho,humano_anot1,humano,,humano_anot1,1
+401,15,UF,Humano,4,18–24,Masculino,Exatas,Uso diariamente,Diariamente,fosforos,humano_anot2,humano,,humano_anot2,1
+402,15,VO,IA,4,18–24,Masculino,Exatas,Uso diariamente,Diariamente,vermelho,gemini_run2,IA,gemini,,1
+403,15,WM,IA,5,18–24,Masculino,Exatas,Uso diariamente,Diariamente,vermelho,chatgpt_run2,IA,chatgpt,,1
+404,15,XL,IA,4,18–24,Masculino,Exatas,Uso diariamente,Diariamente,fosforos,humano_anot3,humano,,humano_anot3,0
+405,16,AC,Humano,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,gemini_run2,IA,gemini,,0
+406,16,BN,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,gemini_run2,IA,gemini,,0
+407,16,BQ,IA,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,chatgpt_run2,IA,chatgpt,,1
+408,16,EO,IA,3,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,chatgpt_run1,IA,chatgpt,,1
+409,16,FG,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,claude_run1,IA,claude,,0
+410,16,FI,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,claude_run1,IA,claude,,0
+411,16,GQ,IA,3,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,humano_anot1,humano,,humano_anot1,0
+412,16,GV,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,chatgpt_run1,IA,chatgpt,,0
+413,16,GY,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,claude_run2,IA,claude,,0
+414,16,HC,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,humano_anot2,humano,,humano_anot2,1
+415,16,HD,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,chatgpt_run1,IA,chatgpt,,0
+416,16,IW,IA,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,gemini_run1,IA,gemini,,1
+417,16,MA,IA,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,gemini_run1,IA,gemini,,1
+418,16,MO,Humano,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,claude_run2,IA,claude,,0
+419,16,NV,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,claude_run1,IA,claude,,0
+420,16,NW,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,gemini_run1,IA,gemini,,0
+421,16,OR,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,chatgpt_run2,IA,chatgpt,,0
+422,16,PF,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,claude_run2,IA,claude,,0
+423,16,PQ,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,humano_anot3,humano,,humano_anot3,1
+424,16,RO,Humano,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,humano_anot2,humano,,humano_anot2,1
+425,16,SV,IA,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,humano_anot3,humano,,humano_anot3,0
+426,16,TQ,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,humano_anot1,humano,,humano_anot1,1
+427,16,UA,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,espelho,humano_anot1,humano,,humano_anot1,1
+428,16,UF,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,humano_anot2,humano,,humano_anot2,1
+429,16,VO,IA,3,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,gemini_run2,IA,gemini,,1
+430,16,WM,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,vermelho,chatgpt_run2,IA,chatgpt,,0
+431,16,XL,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por semana,fosforos,humano_anot3,humano,,humano_anot3,1
+432,17,AC,Humano,2,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,gemini_run2,IA,gemini,,0
+433,17,BN,Humano,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,gemini_run2,IA,gemini,,0
+434,17,BQ,Humano,3,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,chatgpt_run2,IA,chatgpt,,0
+435,17,EO,Humano,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,chatgpt_run1,IA,chatgpt,,0
+436,17,FG,Humano,3,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,claude_run1,IA,claude,,0
+437,17,FI,IA,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,claude_run1,IA,claude,,1
+438,17,GQ,Humano,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,humano_anot1,humano,,humano_anot1,1
+439,17,GV,Humano,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,chatgpt_run1,IA,chatgpt,,0
+440,17,GY,IA,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,claude_run2,IA,claude,,1
+441,17,HC,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,humano_anot2,humano,,humano_anot2,1
+442,17,HD,Humano,3,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,chatgpt_run1,IA,chatgpt,,0
+443,17,IW,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,gemini_run1,IA,gemini,,0
+444,17,MA,Humano,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,gemini_run1,IA,gemini,,0
+445,17,MO,Humano,2,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,claude_run2,IA,claude,,0
+446,17,NV,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,claude_run1,IA,claude,,1
+447,17,NW,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,gemini_run1,IA,gemini,,0
+448,17,OR,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,chatgpt_run2,IA,chatgpt,,0
+449,17,PF,IA,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,claude_run2,IA,claude,,1
+450,17,PQ,Humano,2,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,humano_anot3,humano,,humano_anot3,1
+451,17,RO,Humano,2,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,humano_anot2,humano,,humano_anot2,1
+452,17,SV,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,humano_anot3,humano,,humano_anot3,1
+453,17,TQ,Humano,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,humano_anot1,humano,,humano_anot1,1
+454,17,UA,Humano,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,humano_anot1,humano,,humano_anot1,1
+455,17,UF,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,humano_anot2,humano,,humano_anot2,1
+456,17,VO,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,gemini_run2,IA,gemini,,0
+457,17,WM,Humano,4,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,chatgpt_run2,IA,chatgpt,,0
+458,17,XL,Humano,2,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,humano_anot3,humano,,humano_anot3,1
+459,18,AC,IA,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,gemini_run2,IA,gemini,,1
+460,18,BN,IA,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,gemini_run2,IA,gemini,,1
+461,18,BQ,IA,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,chatgpt_run2,IA,chatgpt,,1
+462,18,EO,IA,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,chatgpt_run1,IA,chatgpt,,1
+463,18,FG,IA,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,claude_run1,IA,claude,,1
+464,18,FI,IA,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,claude_run1,IA,claude,,1
+465,18,GQ,Humano,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,humano_anot1,humano,,humano_anot1,1
+466,18,GV,IA,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,chatgpt_run1,IA,chatgpt,,1
+467,18,GY,IA,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,claude_run2,IA,claude,,1
+468,18,HC,Humano,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,humano_anot2,humano,,humano_anot2,1
+469,18,HD,Humano,5,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,chatgpt_run1,IA,chatgpt,,0
+470,18,IW,IA,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,gemini_run1,IA,gemini,,1
+471,18,MA,IA,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,gemini_run1,IA,gemini,,1
+472,18,MO,IA,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,claude_run2,IA,claude,,1
+473,18,NV,IA,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,claude_run1,IA,claude,,1
+474,18,NW,IA,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,gemini_run1,IA,gemini,,1
+475,18,OR,Humano,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,chatgpt_run2,IA,chatgpt,,0
+476,18,PF,IA,3,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,claude_run2,IA,claude,,1
+477,18,PQ,Humano,3,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,humano_anot3,humano,,humano_anot3,1
+478,18,RO,Humano,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,humano_anot2,humano,,humano_anot2,1
+479,18,SV,Humano,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,humano_anot3,humano,,humano_anot3,1
+480,18,TQ,Humano,5,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,humano_anot1,humano,,humano_anot1,1
+481,18,UA,Humano,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,humano_anot1,humano,,humano_anot1,1
+482,18,UF,Humano,5,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,humano_anot2,humano,,humano_anot2,1
+483,18,VO,IA,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,gemini_run2,IA,gemini,,1
+484,18,WM,IA,5,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,chatgpt_run2,IA,chatgpt,,1
+485,18,XL,Humano,4,25–34,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,humano_anot3,humano,,humano_anot3,1
+486,19,AC,IA,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,gemini_run2,IA,gemini,,1
+487,19,BN,IA,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,gemini_run2,IA,gemini,,1
+488,19,BQ,Humano,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,chatgpt_run2,IA,chatgpt,,0
+489,19,EO,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,chatgpt_run1,IA,chatgpt,,0
+490,19,FG,IA,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,claude_run1,IA,claude,,1
+491,19,FI,IA,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,claude_run1,IA,claude,,1
+492,19,GQ,Humano,2,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,humano_anot1,humano,,humano_anot1,1
+493,19,GV,IA,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,chatgpt_run1,IA,chatgpt,,1
+494,19,GY,IA,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,claude_run2,IA,claude,,1
+495,19,HC,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,humano_anot2,humano,,humano_anot2,1
+496,19,HD,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,chatgpt_run1,IA,chatgpt,,0
+497,19,IW,IA,2,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,gemini_run1,IA,gemini,,1
+498,19,MA,IA,5,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,gemini_run1,IA,gemini,,1
+499,19,MO,IA,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,claude_run2,IA,claude,,1
+500,19,NV,IA,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,claude_run1,IA,claude,,1
+501,19,NW,Humano,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,gemini_run1,IA,gemini,,0
+502,19,OR,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,chatgpt_run2,IA,chatgpt,,0
+503,19,PF,IA,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,claude_run2,IA,claude,,1
+504,19,PQ,Humano,2,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,humano_anot3,humano,,humano_anot3,1
+505,19,RO,Humano,2,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,humano_anot2,humano,,humano_anot2,1
+506,19,SV,Humano,2,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,humano_anot3,humano,,humano_anot3,1
+507,19,TQ,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,humano_anot1,humano,,humano_anot1,1
+508,19,UA,Humano,2,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,humano_anot1,humano,,humano_anot1,1
+509,19,UF,Humano,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,humano_anot2,humano,,humano_anot2,1
+510,19,VO,IA,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,gemini_run2,IA,gemini,,1
+511,19,WM,IA,4,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,chatgpt_run2,IA,chatgpt,,1
+512,19,XL,Humano,3,18–24,Masculino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,humano_anot3,humano,,humano_anot3,1
+513,20,AC,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,gemini_run2,IA,gemini,,1
+514,20,BN,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,gemini_run2,IA,gemini,,1
+515,20,BQ,Humano,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,chatgpt_run2,IA,chatgpt,,0
+516,20,EO,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,chatgpt_run1,IA,chatgpt,,0
+517,20,FG,Humano,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,claude_run1,IA,claude,,0
+518,20,FI,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,claude_run1,IA,claude,,1
+519,20,GQ,Humano,2,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,humano_anot1,humano,,humano_anot1,1
+520,20,GV,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,chatgpt_run1,IA,chatgpt,,1
+521,20,GY,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,claude_run2,IA,claude,,0
+522,20,HC,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,humano_anot2,humano,,humano_anot2,1
+523,20,HD,IA,2,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,chatgpt_run1,IA,chatgpt,,1
+524,20,IW,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,gemini_run1,IA,gemini,,1
+525,20,MA,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,gemini_run1,IA,gemini,,0
+526,20,MO,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,claude_run2,IA,claude,,0
+527,20,NV,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,claude_run1,IA,claude,,1
+528,20,NW,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,gemini_run1,IA,gemini,,0
+529,20,OR,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,chatgpt_run2,IA,chatgpt,,0
+530,20,PF,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,claude_run2,IA,claude,,0
+531,20,PQ,Humano,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,humano_anot3,humano,,humano_anot3,1
+532,20,RO,IA,2,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,humano_anot2,humano,,humano_anot2,0
+533,20,SV,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,humano_anot3,humano,,humano_anot3,0
+534,20,TQ,Humano,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,humano_anot1,humano,,humano_anot1,1
+535,20,UA,Humano,5,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,espelho,humano_anot1,humano,,humano_anot1,1
+536,20,UF,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,humano_anot2,humano,,humano_anot2,0
+537,20,VO,Humano,2,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,gemini_run2,IA,gemini,,0
+538,20,WM,Humano,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,vermelho,chatgpt_run2,IA,chatgpt,,0
+539,20,XL,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Diariamente,fosforos,humano_anot3,humano,,humano_anot3,0
+540,21,AC,Humano,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,fosforos,gemini_run2,IA,gemini,,0
+541,21,BN,Humano,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,espelho,gemini_run2,IA,gemini,,0
+542,21,BQ,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,fosforos,chatgpt_run2,IA,chatgpt,,0
+543,21,EO,IA,1,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,fosforos,chatgpt_run1,IA,chatgpt,,1
+544,21,FG,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,vermelho,claude_run1,IA,claude,,0
+545,21,FI,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,espelho,claude_run1,IA,claude,,0
+546,21,GQ,Humano,2,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,fosforos,humano_anot1,humano,,humano_anot1,1
+547,21,GV,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,espelho,chatgpt_run1,IA,chatgpt,,1
+548,21,GY,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,espelho,claude_run2,IA,claude,,0
+549,21,HC,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,vermelho,humano_anot2,humano,,humano_anot2,1
+550,21,HD,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,vermelho,chatgpt_run1,IA,chatgpt,,0
+551,21,IW,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,vermelho,gemini_run1,IA,gemini,,1
+552,21,MA,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,fosforos,gemini_run1,IA,gemini,,1
+553,21,MO,IA,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,vermelho,claude_run2,IA,claude,,1
+554,21,NV,IA,1,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,fosforos,claude_run1,IA,claude,,1
+555,21,NW,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,espelho,gemini_run1,IA,gemini,,1
+556,21,OR,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,espelho,chatgpt_run2,IA,chatgpt,,0
+557,21,PF,IA,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,fosforos,claude_run2,IA,claude,,1
+558,21,PQ,Humano,2,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,espelho,humano_anot3,humano,,humano_anot3,1
+559,21,RO,Humano,2,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,espelho,humano_anot2,humano,,humano_anot2,1
+560,21,SV,IA,2,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,vermelho,humano_anot3,humano,,humano_anot3,0
+561,21,TQ,Humano,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,vermelho,humano_anot1,humano,,humano_anot1,1
+562,21,UA,Humano,3,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,espelho,humano_anot1,humano,,humano_anot1,1
+563,21,UF,Humano,4,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,fosforos,humano_anot2,humano,,humano_anot2,1
+564,21,VO,IA,2,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,vermelho,gemini_run2,IA,gemini,,1
+565,21,WM,Humano,5,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,vermelho,chatgpt_run2,IA,chatgpt,,0
+566,21,XL,IA,1,18–24,Feminino,Humanas,Uso raramente (algumas vezes por mês),Algumas vezes por mês,fosforos,humano_anot3,humano,,humano_anot3,0
+567,22,AC,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,gemini_run2,IA,gemini,,1
+568,22,BN,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,gemini_run2,IA,gemini,,0
+569,22,BQ,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,chatgpt_run2,IA,chatgpt,,0
+570,22,EO,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,chatgpt_run1,IA,chatgpt,,1
+571,22,FG,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,claude_run1,IA,claude,,0
+572,22,FI,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,claude_run1,IA,claude,,1
+573,22,GQ,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,humano_anot1,humano,,humano_anot1,0
+574,22,GV,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,chatgpt_run1,IA,chatgpt,,0
+575,22,GY,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,claude_run2,IA,claude,,0
+576,22,HC,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,humano_anot2,humano,,humano_anot2,1
+577,22,HD,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,chatgpt_run1,IA,chatgpt,,0
+578,22,IW,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,gemini_run1,IA,gemini,,0
+579,22,MA,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,gemini_run1,IA,gemini,,0
+580,22,MO,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,claude_run2,IA,claude,,0
+581,22,NV,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,claude_run1,IA,claude,,0
+582,22,NW,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,gemini_run1,IA,gemini,,0
+583,22,OR,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,chatgpt_run2,IA,chatgpt,,0
+584,22,PF,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,claude_run2,IA,claude,,0
+585,22,PQ,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,humano_anot3,humano,,humano_anot3,1
+586,22,RO,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,humano_anot2,humano,,humano_anot2,1
+587,22,SV,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,humano_anot3,humano,,humano_anot3,1
+588,22,TQ,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,humano_anot1,humano,,humano_anot1,0
+589,22,UA,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,espelho,humano_anot1,humano,,humano_anot1,0
+590,22,UF,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,humano_anot2,humano,,humano_anot2,0
+591,22,VO,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,gemini_run2,IA,gemini,,1
+592,22,WM,IA,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,vermelho,chatgpt_run2,IA,chatgpt,,1
+593,22,XL,Humano,5,18–24,Feminino,Exatas,Uso com frequência (algumas vezes por semana),Algumas vezes por ano,fosforos,humano_anot3,humano,,humano_anot3,1

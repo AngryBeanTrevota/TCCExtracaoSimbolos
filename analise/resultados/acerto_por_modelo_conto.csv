@@ -1,0 +1,10 @@
+conto,modelo,n,taxa_acerto
+espelho,chatgpt,44,0.4090909090909091
+espelho,claude,44,0.7727272727272727
+espelho,gemini,44,0.45454545454545453
+fosforos,chatgpt,44,0.36363636363636365
+fosforos,claude,44,0.7954545454545454
+fosforos,gemini,44,0.7272727272727273
+vermelho,chatgpt,44,0.3409090909090909
+vermelho,claude,44,0.5227272727272727
+vermelho,gemini,44,0.6818181818181818

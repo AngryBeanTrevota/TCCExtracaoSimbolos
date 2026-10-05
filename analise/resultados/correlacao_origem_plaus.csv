@@ -1,0 +1,9 @@
+,metrica,valor
+0,n,594.0
+1,média plaus | percebido humano,4.133333333333334
+2,média plaus | percebido IA,3.5663082437275984
+3,diferença (humano - IA),0.5670250896057354
+4,Mann-Whitney U,56599.5
+5,Mann-Whitney p,2.244710059143305e-10
+6,ponto-bisserial r,0.2716797318686059
+7,ponto-bisserial p,1.6445460905400677e-11

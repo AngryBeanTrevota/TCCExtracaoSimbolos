@@ -1,0 +1,10 @@
+etiqueta,tipo,conto,origem,n_respostas,taxa_voto_humano,plaus_media,taxa_acerto,objetos,n_interpretacoes,chars_bloco
+TQ,humano,vermelho,humano_anot1,22,0.5909090909090909,3.909090909090909,0.5909090909090909,"relógio de ébano, tripés com braseiros, portões de ferro",7,463
+GQ,humano,fosforos,humano_anot1,22,0.6363636363636364,3.227272727272727,0.6363636363636364,"caixa de fósforos, chinelos, níquel",5,197
+SV,humano,vermelho,humano_anot3,22,0.6363636363636364,3.8636363636363638,0.6363636363636364,"máscara, relógio, muro",8,276
+XL,humano,fosforos,humano_anot3,22,0.6363636363636364,3.4545454545454546,0.6363636363636364,"fósforo, estrela cadente, chinelo",8,306
+RO,humano,espelho,humano_anot2,22,0.7272727272727273,3.1818181818181817,0.7272727272727273,"alma externa, roupas de alferes, espelho",9,459
+PQ,humano,espelho,humano_anot3,22,0.7727272727272727,3.5,0.7727272727272727,"laranja, espelho, casa",4,154
+HC,humano,vermelho,humano_anot2,22,0.7727272727272727,4.363636363636363,0.7727272727272727,"vermelho, castelo, relógio",9,349
+UF,humano,fosforos,humano_anot2,22,0.8181818181818182,4.181818181818182,0.8181818181818182,"chama, casa, cadentes",9,334
+UA,humano,espelho,humano_anot1,22,0.8636363636363636,3.727272727272727,0.8636363636363636,"relógio, espelho, farda de alferes",3,134
